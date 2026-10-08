@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: personal-profile
-          image: jaisshaurya/personal-profile:v1
+          image: jaisshaurya/personal-profile:latest
           imagePullPolicy: Always
 
           ports:
